@@ -1,0 +1,2 @@
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+https://www.cloudflare.com/learning/cdn/what-is-caching/
